@@ -8,9 +8,7 @@ torchfile
 torchvision
 Jinja2
 Werkzeug
-pixellib
-cv2
-deeplabv3plus
+
 
 
 
